@@ -1,4 +1,4 @@
-# Informatik-Leistungsnachweis-Python: Lebenszufriedenheit verschiedener Länder
+# Informatik Leistungsnachweis Python: Lebenszufriedenheit verschiedener Länder
 Unsere Arbeit beschäftigt sich mit der selbst berichteten Lebenszufriedenheit im Zeitraum 2011 bis 2024. Untersuchen wollen wir vor allem die Unteschiede zwischen besten und schlechtesten abschneidenden Ländern und recherchieren, ob es auch politische Einflüsse gibt. 
 
 ### Unsere Fragestellungen lauten:
